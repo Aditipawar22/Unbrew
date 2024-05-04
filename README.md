@@ -1,2 +1,2 @@
-# landing-page-templates
+# landing-page-template
  
