@@ -115,6 +115,10 @@
 	color: violet;
 	cursor: pointer;
 }
+.fa{
+	color: white;
+	margin-left: 30px;
+}
 .table{
 	margin-top: 20px;
 	height: 500px;
@@ -158,4 +162,8 @@ table tr td p{
 	font-size: 25px;
 	font-family: "Poetsen One", sans-serif;
 	letter-spacing: 2px;
+}
+.marketing{
+	height: 5px;
+	width: 10px;
 }
