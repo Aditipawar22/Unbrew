@@ -7,7 +7,7 @@
     display: flex;
     justify-content: space-between; 
     align-items: center; 
-    padding: 10px;
+    padding: 20px;
     color: white;
     font-weight: bolder;
 }
@@ -126,7 +126,6 @@
 	background-color: white;	
 	padding: 30px;
 	border-collapse: separate;
-	border-spacing: 20px;
 }
 .tbl{
 	width: 90%;
@@ -162,8 +161,4 @@ table tr td p{
 	font-size: 25px;
 	font-family: "Poetsen One", sans-serif;
 	letter-spacing: 2px;
-}
-.marketing{
-	height: 5px;
-	width: 10px;
 }
